@@ -3,6 +3,13 @@ h1 {
     font-family: Verdana, "Sans serif";
     font-size: medium;
 }
+h2 {
+    color: gray;
+    font-family: Verdana, "Sans serif";
+    font-size: medium;
+    justify-content: center;
+    flex-direction: column;
+}
 
 p {
     color: black;
